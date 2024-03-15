@@ -6,4 +6,5 @@ Links to sources
 
 anything that can help a person figure out what you are trying to do, 
 
-Please if you use any my code, site me. 
+## Citations
+Please if you use any my code, cite me. 
