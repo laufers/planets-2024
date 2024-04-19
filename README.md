@@ -9,9 +9,6 @@ This is how my code works.
 
 This are the additiona python libraries that you will need to install as a reuirement. 
 
-* 1
-* 2
-* 3
 
 1. 1
 2. 2
